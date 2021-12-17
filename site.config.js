@@ -18,7 +18,7 @@ module.exports = {
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
-  // github: 'transitive-bullshit',
+  github: 'jimschenchen',
   // linkedin: 'fisch2',
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -32,7 +32,7 @@ module.exports = {
   imageCDNHost: null,
 
   // Utteranc.es comments via GitHub issue comments (optional)
-  utterancesGitHubRepo: null,
+  utterancesGitHubRepo: "https://github.com/jimschenchen/nextjs-notion-starter-kit",
 
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
